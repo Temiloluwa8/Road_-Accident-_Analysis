@@ -1,4 +1,4 @@
-# Road_-Accident-_Analysis
+# Road-Accident-Analysis
 Interactive dashboard showcasing road accident casualty insights by type, vehicle, location, and road conditions using dynamic visuals
 ## Road_ Accident_Report
 This Report provides key insights showing that most road accident casualties are slight, occur in urban areas, and predominantly involve cars on dry roads.
