@@ -15,5 +15,14 @@ The data was downloaded from the link provided by Swapnjeet S
       3. Designed an interactive dashboard using slicers and data visuals.
 ### Data Overview
 The dataset used in this project contains detailed records of road accident casualties, including severity levels (fatal, serious, slight), vehicle types involved, road types, surface conditions, light conditions, and geographic distribution (urban vs rural). The data spans a full year and enables comprehensive analysis of accident patterns across different factors. This rich dataset provided the foundation for uncovering meaningful insights and building an interactive dashboard for road safety analysis.
+## Analysis Breakdown
+The dashboard analysis was structured around the following key areas:
++ Casualty Severity: Categorized casualties into fatal, serious, and slight, with percentages and totals.
++ Vehicle Type Involvement: Identified which vehicle types were most commonly involved in accidents.
++ Location Analysis: Compared accidents across urban and rural areas to highlight geographic risk patterns.
++ Road and Light Conditions: Analyzed how road surface (dry, wet, icy) and lighting (daylight, darkness) influenced casualty rates.
++ Road Type Impact: Evaluated accident occurrences based on road types (e.g., single carriageway, dual carriageway).
++ Monthly Trends: Tracked casualty trends across months and compared current year to previous year performance.
+## Data Visualization
 
 
