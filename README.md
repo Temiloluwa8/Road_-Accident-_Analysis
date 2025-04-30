@@ -14,3 +14,6 @@ The data was downloaded from the link provided by Swapnjeet S
       2. Created pivot tables and charts to analyze casualty patterns.
       3. Designed an interactive dashboard using slicers and data visuals.
 ### Data Overview
+The dataset used in this project contains detailed records of road accident casualties, including severity levels (fatal, serious, slight), vehicle types involved, road types, surface conditions, light conditions, and geographic distribution (urban vs rural). The data spans a full year and enables comprehensive analysis of accident patterns across different factors. This rich dataset provided the foundation for uncovering meaningful insights and building an interactive dashboard for road safety analysis.
+
+
